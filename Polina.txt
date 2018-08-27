@@ -1,1 +1,3 @@
 Hello!
+My name is Polina.
+I am a developer.
