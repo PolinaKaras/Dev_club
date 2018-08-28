@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello!
 My name is Polina.
 I am a developer.
+=======
+Hello!
+>>>>>>> 2897183... First commit
